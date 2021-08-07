@@ -1,8 +1,0 @@
-{
-  "projects": {
-    "prod": "autodeploy-30b9f",
-    "dev": "autodeploy-dev-ed185",
-    "test": "autodeploy-test-39487",
-    "qa": "autodeploy-qa-f8b20"
-  }
-}
