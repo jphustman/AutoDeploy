@@ -85,3 +85,8 @@ Sessionx.vim
 tags
 # Persistent undo
 [._]*.un~
+
+### Firebase/Github Workflows ###
+.github/
+.firebaserc
+firebase.json
