@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "autodeploy-dev-62dd7"
+    "default": "autodeploy-dev-62dd7",
+    "test": "autodeploy-test-39487"
   }
 }
